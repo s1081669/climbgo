@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "736099703366",
+    "firebase_url": "https://i-yu-lo.firebaseio.com",
+    "project_id": "i-yu-lo",
+    "storage_bucket": "i-yu-lo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736099703366:android:df37f38b6651393663c847",
+        "android_client_info": {
+          "package_name": "com.yu.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736099703366-llj02rph396163fqn2to92f5djsemaqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfak-iEQ3irOxdeZr5PDrFJVAwjkAcWUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736099703366-llj02rph396163fqn2to92f5djsemaqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736099703366:android:9bc4c8d09110f66463c847",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.fuck.formal2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736099703366-llj02rph396163fqn2to92f5djsemaqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfak-iEQ3irOxdeZr5PDrFJVAwjkAcWUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736099703366-llj02rph396163fqn2to92f5djsemaqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736099703366:android:2714ad9dd9f2494a63c847",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.fuck.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736099703366-llj02rph396163fqn2to92f5djsemaqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfak-iEQ3irOxdeZr5PDrFJVAwjkAcWUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736099703366-llj02rph396163fqn2to92f5djsemaqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
